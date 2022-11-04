@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\lennartsturm\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(11,66): warning C4566: Das durch den universellen Zeichennamen "\u20A4" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+  ConsoleApplication3.vcxproj -> C:\Users\lennartsturm\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe

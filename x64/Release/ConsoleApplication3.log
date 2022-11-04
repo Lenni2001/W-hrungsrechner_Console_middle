@@ -1,0 +1,7 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\lennartsturm\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(11,66): warning C4566: Das durch den universellen Zeichennamen "\u20A4" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  ConsoleApplication3.vcxproj -> C:\Users\lennartsturm\source\repos\ConsoleApplication3\x64\Release\ConsoleApplication3.exe
