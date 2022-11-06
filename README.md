@@ -1,4 +1,4 @@
-# W-hrungsrechner_Console_middle
+# Waehrungsrechner_Console_middle
 
 This is the final release of the advanced console application, it includes everything from the worksheet. 
 
